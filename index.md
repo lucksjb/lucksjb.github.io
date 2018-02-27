@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## POLÍTICA DE PRIVACIDADE
 
-You can use the [editor on GitHub](https://github.com/lucksjb/lucksjb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+----
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## SEÇÃO 1 - O QUE FAZEMOS COM AS SUAS INFORMAÇÕES?
+Quando você entra no chat, todas as conversas ficam armazenadas como parte do histórico de atendimento.
+O sistema obtem também a foto do qrCode para obtenção da contrasenha.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## SEÇÃO 2 - DIVULGAÇÃO
 
-```markdown
-Syntax highlighted code block
+Nós iremos divulgar suas informações pessoais se formos obrigados por lei a fazê-lo ou se você violar nossos Termos de serviço.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## SEÇÃO 3 - TERCEIROS
+Ao acessar o aplicativo e clicar em CHAT você é redirecionado para no chat. Essa ferramenta pertence a BRAZIP 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## SEÇÃO 4 - CONSENTIMENTO
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Ao usar esse site, você confirma que você é um cliente da LCK.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucksjb/lucksjb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## SEÇÃO 5 - ALTERAÇÕES NA POLÍTICA DE PRIVACIDADE
 
-### Support or Contact
+Reservamos o direito de modificar essa política de privacidade a qualquer momento. Portanto, por favor, leia-a com frequência. As alterações e esclarecimentos surtem efeito imediatamente após serem publicadas no site. Caso façamos alterações na política de privacidade, iremos notificá-lo sobre a atualização. Assim, você saberá quais informações coletamos, como as usamos, e sob que circunstâncias, caso aplicável, as utilizaremos e/ou divulgaremos.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Caso ocorra a fusão da nossa empresa com outra, suas informações podem ser transferidas para os novos proprietários para que possamos continuar vendendo produtos e atendedo para você.
+
+
+## PERGUNTAS E INFORMAÇÕES DE CONTATO
+
+Se você gostaria de acessar, corrigir, alterar ou excluir quaisquer informações pessoais que temos sobre você, registre uma queixa, ou simplesmente peça mais informações de contato a(o) nosso(a) Diretor(a) de privacidade através do luciano@lckconsultoria.com.br ou pelo correio: Lck Consultoria e Sistemas Ltda
+
+[Re: Diretor(a) de privacidade]
+
+[Rua Bahia, 2089, São Joaquim da Barra, SP, 14600000, Brazil]
